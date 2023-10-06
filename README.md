@@ -1,0 +1,1 @@
+- [rockthejvm Advanced Scala 3 and Functional Programming 동영상 강의](https://rockthejvm.com/p/advanced-scala): src/main/scala/com/practice/rockthejvm
